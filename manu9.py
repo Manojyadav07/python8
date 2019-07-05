@@ -1,4 +1,4 @@
-m=int(input())
-for i in range(m):
-    i=i+m
+x=int(input())
+for i in range(x):
+    i=i+x
 print(i)
